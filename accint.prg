@@ -120,6 +120,10 @@ Do Case
 						Do nfs-s01.06w8.FXP
 						&& incluido para atender o chamado INC0223022
 						
+					Case VLC_CodES $ "ESTEVAN"
+						Do ESTEVAM.FXP
+						&& incluido para atender o chamado INC0223022						
+						
 					Case VLC_CodES $ "S50.21W8"
 						Do nfs-s01.01es_2.FXP
 
