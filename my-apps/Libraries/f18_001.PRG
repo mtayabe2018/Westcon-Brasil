@@ -1,3 +1,5 @@
+*- Novo BRANCH
+
 */--------------------------------------------------------------------------------------------------/*
 */ Procedimento		: f18_001		                            				     	  			/*
 */ Descrição   		: Gera lançamento contábil da Quitação de Títulos a Pagar - Tela F18_001		/*
